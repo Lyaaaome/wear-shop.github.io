@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"title": "T-shirt",
+		"itemsInBox": "M, L, XL, XXL",
+		"weight": 900,
+		"price": 25,
+		"imgSrc": "tshirt-man.webp"
+	},
+	{
+		"id": 2,
+		"title": "Black Hoodie",
+		"itemsInBox": "M, L, XL, XXL",
+		"weight": 1850,
+		"price": 50,
+		"imgSrc": "boy-hoodie.webp"
+	},
+	{
+		"id": 3,
+		"title": "White Hoodie",
+		"itemsInBox": "M, L, XL, XXL",
+		"weight": 1850,
+		"price": 50,
+		"imgSrc": "boy-hoodie2.webp"
+	},
+	{
+		"id": 4,
+		"title": "sweetshot",
+		"itemsInBox": "M, L, XL, XXL",
+		"weight": 1300,
+		"price": 35,
+		"imgSrc": "sweetshot.webp"
+	}
+]

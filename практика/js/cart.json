@@ -1,0 +1,17 @@
+{
+    "1" : {
+        "name" : "T-shirt",
+        "cost" : 30,
+        "image" : "img/item1.webp"
+    },
+    "2" : {
+        "name" : "Pants",
+        "cost" : 45,
+        "image" : "img/item1.webp"
+    },
+    "3" : {
+        "name" : "nets",
+        "cost" : 30,
+        "image" : "img/item1.webp"
+    }
+}

@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"title": "Chain Skirt",
+		"itemsInBox": "S, M, L",
+		"weight": 600,
+		"price": 15,
+		"imgSrc": "girl-skirt.webp"
+	},
+	{
+		"id": 2,
+		"title": "Long Dress",
+		"itemsInBox": "S, M, L",
+		"weight": 1790,
+		"price": 48,
+		"imgSrc": "long-dress.webp"
+	},
+	{
+		"id": 3,
+		"title": "Hight Top Sneakers",
+		"itemsInBox": "36, 37, 38, 39",
+		"weight": 1800,
+		"price": 49.99,
+		"imgSrc": "girl-boots.webp"
+	},
+	{
+		"id": 4,
+		"title": "Long Sleeves Top",
+		"itemsInBox": "S ,M, L",
+		"weight": 1300,
+		"price": 35,
+		"imgSrc": "Long-Sleeves-Top.webp"
+	}
+]

@@ -1,0 +1,209 @@
+/* Обнуление отступов и отступов отступов */
+@import url('https://fonts.cdnfonts.com/css/batman-forever');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+dl,
+dd,
+form,
+fieldset,
+legend,
+input,
+textarea,
+blockquote,
+th,
+td,
+figure,
+pre {
+  margin: 0;
+  padding: 0;
+}
+
+/* Обнуление размеров шрифтов */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+select,
+textarea,
+button {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+/* Обнуление стилей списков */
+ul,
+ol {
+  list-style: none;
+}
+
+/* Обнуление стилей гиперссылок */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Обнуление стилей таблиц */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* Обнуление стилей изображений */
+img {
+  border: 0;
+  max-width: 100%;
+  height: auto;
+}
+body {
+    font-family: 'Exo 2', sans-serif;
+    overflow-x:hidden;
+}
+/* обнуление */
+
+.navbar {
+  background-color: black;
+  width: 100%;
+  height: 80px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar h2{
+    margin-left: 50px;
+    padding-right: 50px;
+    font-size: 24px;
+    letter-spacing: 4px;
+    color: #fff;
+    transition: all 0.5s;
+}
+.navbar h2:hover {
+  color:rgb(216, 30, 61);
+}
+
+.navbar h1 {
+    font-size: 38px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'BatmanForeverAlternate', sans-serif;
+    color: #fff;
+}
+
+.shapka {
+  border: 1px solid black;
+  width: 100%;
+  height: 750px;
+  background-image: url(./img/shapka-bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+.shapka-text-block {
+  box-shadow: 10px 5px 5px rgba(247, 14, 14, 0.322);
+  padding: 15px;
+  margin-top: 200px;
+  margin-left: 400px;
+  width: 400px;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  background-color: rgb(0, 0, 0, 0.7);
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.shapka-tittle-txt {
+  font-size: 48px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.shapka-subtittle {
+  font-size: 32px;
+  color: rgb(0, 0, 0);
+  -webkit-text-stroke: 0.5px #fff;
+}
+.shapka-description {
+  -webkit-text-stroke: 0px #000 ;
+  line-height: 25px;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+.btn-shop-now {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  font-size: 20px;
+}
+.btn-shop-now:hover {
+  background-color: white;
+  color: black;
+}
+
+ .category-block {
+  border-top: 15px solid black;
+  width: 100%;
+  height: 800px;
+
+}
+.girl-block {
+  width: 50%;
+  height: 100%;
+  background-image: url(img/girl-category.webp);
+  background-size: cover;
+  float: right;
+
+  text-align: center;
+} 
+.boy-block {
+  border: 1px  solid rgb(255, 255, 255);
+  height: 100%;
+  background-image: url(img/bay-catgory.jpg);
+  background-size: cover;
+  width: 50%;
+  text-align: center;
+} 
+.catgory-block-txt {
+  margin-top: 50%;
+  color: #fff;
+  font-size: 42px;
+  background-color: rgba(0, 0, 0, 0.582);
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: 'Ubuntu', sans-serif;
+  padding: 25px;
+}
+.map-block {
+  padding-top: 5%;
+  padding-left: 15%;
+  padding-bottom: 5%;
+  background-image: url(img/dlya\ mapi.webp) ;
+  border-top: 15px solid #000000 ;
+}
+
+.mapa {
+  border: 5px solid #000000;
+  width: 600px;
+  height: 450px;
+}
+
+
+
+
+
+

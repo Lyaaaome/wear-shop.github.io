@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"title": "Skull Case",
+		"itemsInBox": "Iphone 11, 12, 13, 14",
+		"weight": 200,
+		"price": 5,
+		"imgSrc": "ac-phone-case.webp"
+	},
+	{
+		"id": 2,
+		"title": "Hunt Sterling Silver Ring",
+		"itemsInBox": "US5 to US10",
+		"weight": 1840,
+		"price": 49.68,
+		"imgSrc": "ac-ring.webp"
+	},
+	{
+		"id": 3,
+		"title": "Eclipse Necklace in Mirror Steel",
+		"itemsInBox": "2.9 cm x 3.5 cm",
+		"weight": 1300,
+		"price": 34.56,
+		"imgSrc": "Eclipse-Necklace.webp"
+	},
+	{
+		"id": 4,
+		"title": "Third Eye Ring in Blackened Steel",
+		"itemsInBox": "US6 to US9",
+		"weight": 1300,
+		"price": 34.56,
+		"imgSrc": "eye-ring.webp"
+	}
+]
